@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals
+# GitHub Actions Fundamentals 
 
 Repo for the `GitHub Actions Fundamentals` training.
 
@@ -67,4 +67,6 @@ For this workshop you need the following:
 
 ## Cheat Sheet
 Find common terminology for reference [here](./CheatSheet.md)
+
+[skip ci]
 
